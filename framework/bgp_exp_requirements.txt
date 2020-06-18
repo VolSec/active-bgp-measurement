@@ -1,0 +1,7 @@
+kafka-python
+lz4
+crc32c
+ujson
+arrow
+ripe.atlas.cousteau
+ripe.atlas.sagan[fast]

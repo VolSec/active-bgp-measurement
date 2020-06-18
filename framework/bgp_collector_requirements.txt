@@ -1,0 +1,4 @@
+kafka-python
+lz4
+crc32c
+pybgpstream

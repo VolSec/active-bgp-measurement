@@ -1,0 +1,5 @@
+#!/bin/sh
+
+# Apparently the -e flag doesn't do anything
+# This gets around having to create the cli fifos
+env exabgp.api.cli=false exabgp bird-test.conf

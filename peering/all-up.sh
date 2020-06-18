@@ -1,0 +1,10 @@
+sudo ./peering openvpn up amsterdam01
+sudo ./peering openvpn up clemson01
+sudo ./peering openvpn up grnet01
+sudo ./peering openvpn up isi01
+sudo ./peering openvpn up neu01
+sudo ./peering openvpn up phoenix01
+sudo ./peering openvpn up seattle01
+sudo ./peering openvpn up ufmg01
+sudo ./peering openvpn up utah01
+sudo ./peering openvpn up uw01

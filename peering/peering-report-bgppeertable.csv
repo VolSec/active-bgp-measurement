@@ -1,0 +1,420 @@
+BGP Mux,Peer Organization,Peer ASN,Peer IP Address,IP Version,Short Description,Transit,Route Server,Session ID
+amsterdam01,"TU Darmstadt, Hochschulrechenzentrum",8365,2001:7f8:1::a500:8365:1,IPv6,—,✘,✘,76
+amsterdam01,Seeweb s.r.l.,12637,2001:7f8:1::a501:2637:1,IPv6,—,✘,✘,78
+amsterdam01,Yahoo! Europe Ltd,10310,2001:7f8:1::a501:310:1,IPv6,—,✘,✘,79
+amsterdam01,Linode,63949,80.249.212.136,IPv4,—,✘,✘,272
+amsterdam01,Linode,63949,2001:7f8:1::a506:3949:1,IPv6,—,✘,✘,273
+amsterdam01,Yahoo! Europe Ltd,10310,2001:7f8:1::a501:310:2,IPv6,—,✘,✘,80
+amsterdam01,New Media Express,38001,80.249.213.132,IPv4,—,✘,✘,275
+amsterdam01,New Media Express,38001,2001:7f8:1::a503:8001:1,IPv6,—,✘,✘,276
+amsterdam01,InterBox Internet,16298,2001:7f8:1::a501:6298:1,IPv6,—,✘,✘,81
+amsterdam01,Open Peering Initiative,20562,2001:7f8:1::a502:562:1,IPv6,—,✘,✘,82
+amsterdam01,Open Peering Initiative,20562,2001:7f8:1::a502:562:2,IPv6,—,✘,✘,83
+amsterdam01,Dial Telecom,29208,2001:7f8:1::a502:9208:1,IPv6,—,✘,✘,84
+amsterdam01,Angola Cables,37468,80.249.213.48,IPv4,—,✘,✘,281
+amsterdam01,Angola Cables,37468,2001:7f8:1::a503:7468:1,IPv6,—,✘,✘,282
+amsterdam01,VNet.eu,29405,80.249.212.66,IPv4,—,✘,✘,283
+amsterdam01,VNet.eu,29405,2001:7f8:1::a502:9405:1,IPv6,—,✘,✘,284
+amsterdam01,Akamai,20940,2001:7f8:1::a502:940:1,IPv6,—,✘,✘,85
+amsterdam01,Akamai,20940,2001:7f8:1::a502:940:2,IPv6,—,✘,✘,86
+amsterdam01,E4A,34695,2001:7f8:1::a503:4695:1,IPv6,—,✘,✘,87
+amsterdam01,True Internet,38082,80.249.210.254,IPv4,—,✘,✘,289
+amsterdam01,True Internet,38082,2001:7f8:1::a503:8082:1,IPv6,—,✘,✘,290
+amsterdam01,Lepida,31638,80.249.211.74,IPv4,—,✘,✘,291
+amsterdam01,Lepida,31638,2001:7f8:1::a503:1638:1,IPv6,—,✘,✘,292
+amsterdam01,Gyron,29017,80.249.209.84,IPv4,—,✘,✘,293
+amsterdam01,Gyron,29017,2001:7f8:1::a502:9017:1,IPv6,—,✘,✘,294
+amsterdam01,i3D,49544,80.249.208.162,IPv4,—,✘,✘,295
+amsterdam01,i3D,49544,2001:7f8:1::a504:9544:1,IPv6,—,✘,✘,296
+amsterdam01,Spotify,8403,80.249.212.62,IPv4,—,✘,✘,297
+amsterdam01,Spotify,8403,2001:7f8:1::a500:8403:1,IPv6,—,✘,✘,298
+amsterdam01,EDPnet,9031,80.249.208.180,IPv4,—,✘,✘,299
+amsterdam01,EDPnet,9031,2001:7f8:1::a500:9031:1,IPv6,—,✘,✘,300
+amsterdam01,Global NOC,25220,2001:7f8:1::a502:5220:1,IPv6,—,✘,✘,302
+amsterdam01,Global NOC,25220,80.249.210.58,IPv4,—,✘,✘,301
+amsterdam01,CESNET z.s.p.o.,2852,80.249.209.106,IPv4,—,✘,✘,305
+amsterdam01,CESNET z.s.p.o.,2852,2001:7f8:1::a500:2852:1,IPv6,—,✘,✘,306
+amsterdam01,RCS RDS,8708,80.249.208.51,IPv4,—,✘,✘,307
+amsterdam01,RCS RDS,8708,2001:7f8:1::a500:8708:1,IPv6,—,✘,✘,308
+amsterdam01,EDX Network,198435,80.249.211.136,IPv4,—,✘,✘,309
+amsterdam01,EDX Network,198435,2001:7f8:1:0:a500:19:8435:1,IPv6,—,✘,✘,310
+amsterdam01,Seacom ltd,37100,2001:7f8:1::a503:7100:1,IPv6,—,✘,✘,88
+amsterdam01,Open Carrier,41692,2001:7f8:1::a504:1692:1,IPv6,—,✘,✘,89
+amsterdam01,Computerline,41913,2001:7f8:1::a504:1913:1,IPv6,—,✘,✘,90
+amsterdam01,LinkedIn,14413,80.249.211.185,IPv4,—,✘,✘,54
+amsterdam01,Mail.ru LLC,47764,80.249.211.188,IPv4,—,✘,✘,55
+amsterdam01,Bharti Airtel (UK) Ltd,9498,80.249.211.191,IPv4,—,✘,✘,56
+amsterdam01,Pacnet Global / Asia Netcom / ANC,10026,80.249.211.239,IPv4,—,✘,✘,57
+amsterdam01,Riot Games Ltd,6507,80.249.211.64,IPv4,—,✘,✘,58
+amsterdam01,Riot Games Ltd,6507,80.249.211.66,IPv4,—,✘,✘,59
+amsterdam01,XS4ALL,3265,80.249.208.48,IPv4,—,✘,✘,62
+amsterdam01,XS4ALL,3265,80.249.208.166,IPv4,—,✘,✘,63
+amsterdam01,Apple,714,80.249.211.160,IPv4,—,✘,✘,64
+amsterdam01,Apple,714,80.249.211.183,IPv4,—,✘,✘,65
+amsterdam01,Equinix EU,47886,80.249.208.245,IPv4,—,✘,✘,246
+amsterdam01,Equinix EU,47886,2001:7f8:1::a504:7886:2,IPv6,—,✘,✘,247
+amsterdam01,Equinix EU,47886,80.249.209.222,IPv4,—,✘,✘,248
+amsterdam01,Equinix EU,47886,2001:7f8:1::a504:7886:1,IPv6,—,✘,✘,249
+amsterdam01,Equinix EU,15830,80.249.208.113,IPv4,—,✘,✘,250
+amsterdam01,Equinix EU,15830,2001:7f8:1::a501:5830:1,IPv6,—,✘,✘,251
+amsterdam01,Dropbox,19679,80.249.212.14,IPv4,—,✘,✘,252
+amsterdam01,Dropbox,19679,2001:7f8:1::a501:9679:1,IPv6,—,✘,✘,253
+amsterdam01,LinkedIn,14413,2001:7f8:1:0:a500:19:7612:1,IPv6,—,✘,✘,66
+amsterdam01,Amsterdam Internet Exchange,1200,2001:7f8:1::a500:1200:1,IPv6,Administrative LAN,✘,✘,67
+amsterdam01,Amsterdam Internet Exchange,1200,2001:7f8:1::a500:1200:2,IPv6,Administrative LAN,✘,✘,68
+amsterdam01,Packet Clearing House,3856,2001:7f8:1::a500:3856:1,IPv6,—,✘,✘,69
+amsterdam01,Packet Clearing House,42,2001:7f8:1::a500:42:1,IPv6,—,✘,✘,70
+amsterdam01,Amsterdam Internet Exchange,6777,2001:7f8:1::a500:6777:1,IPv6,Route Server 1,✘,✔,71
+amsterdam01,Amsterdam Internet Exchange,6777,2001:7f8:1::a500:6777:2,IPv6,Route Server 2,✘,✔,72
+amsterdam01,Hurricane Electric,6939,2001:7f8:1::a500:6939:1,IPv6,—,✘,✘,73
+amsterdam01,VeriSign,7342,2001:7f8:1::a500:7342:1,IPv6,—,✘,✘,74
+amsterdam01,Microsoft,8075,2001:7f8:1::a500:8075:1,IPv6,—,✘,✘,75
+amsterdam01,ScanPlus,12399,80.249.209.99,IPv4,—,✘,✘,264
+amsterdam01,ScanPlus,12399,2001:7f8:1::a501:2399:1,IPv6,—,✘,✘,265
+amsterdam01,eBay Classifieds Group,41552,80.249.209.112,IPv4,—,✘,✘,266
+amsterdam01,eBay Classifieds Group,41552,2001:7f8:1::a504:1552:2,IPv6,—,✘,✘,267
+amsterdam01,Retn Ltd.,9002,2001:7f8:1::a500:9002:1,IPv6,—,✘,✘,77
+amsterdam01,Hostopia,9115,2001:7f8:1::a500:9115:1,IPv6,—,✘,✘,317
+amsterdam01,Automattic,2635,80.249.211.212,IPv4,—,✘,✘,318
+amsterdam01,Automattic,2635,2001:7f8:1::a500:2635:1,IPv6,—,✘,✘,319
+amsterdam01,Mail.ru LLC,47764,2001:7f8:1::a504:7764:1,IPv6,—,✘,✘,91
+amsterdam01,Mail.ru LLC,47764,2001:7f8:1::a504:7764:2,IPv6,—,✘,✘,92
+amsterdam01,Mainsoft S.p.A.,51185,2001:7f8:1::a505:1185:1,IPv6,—,✘,✘,93
+amsterdam01,XS4ALL,3265,2001:7f8:1::a500:3265:1,IPv6,—,✘,✘,97
+amsterdam01,XS4ALL,3265,2001:7f8:1::a500:3265:2,IPv6,—,✘,✘,98
+amsterdam01,Apple,714,2001:7f8:1::a500:714:1,IPv6,—,✘,✘,99
+amsterdam01,Apple,714,2001:7f8:1::a500:714:2,IPv6,—,✘,✘,100
+amsterdam01,Valve,32590,80.249.211.23,IPv4,—,✘,✘,327
+amsterdam01,Valve,32590,2001:7f8:1::a503:2590:1,IPv6,—,✘,✘,328
+amsterdam01,eBay,62955,80.249.212.124,IPv4,—,✘,✘,329
+amsterdam01,eBay,62955,2001:7f8:1::a506:2955:1,IPv6,—,✘,✘,330
+amsterdam01,Swisscom,3303,80.249.208.100,IPv4,—,✘,✘,332
+amsterdam01,Swisscom,3303,2001:7f8:1::a500:3303:1,IPv6,—,✘,✘,333
+amsterdam01,Bit BV,12859,2001:7f8:1::a501:2859:1,IPv6,—,✔,✘,95
+amsterdam01,Bit BV,12859,2001:7f8:1::a501:2859:2,IPv6,—,✔,✘,96
+amsterdam01,Bit BV,12859,80.249.208.200,IPv4,—,✔,✘,61
+amsterdam01,Bit BV,12859,80.249.208.35,IPv4,—,✔,✘,60
+amsterdam01,Netwerkvereniging Coloclue,8283,80.249.211.161,IPv4,—,✔,✘,52
+amsterdam01,Amsterdam Internet Exchange,6777,80.249.210.255,IPv4,Falcon Route Server 1,✘,✔,102
+amsterdam01,Rubicon Project,26667,80.249.212.237,IPv4,—,✘,✘,338
+amsterdam01,Rubicon Project,26667,2001:7f8:1::a502:6667:2,IPv6,—,✘,✘,339
+amsterdam01,Omantel,8529,80.249.208.30,IPv4,—,✘,✘,340
+amsterdam01,Omantel,8529,2001:7f8:1::a500:8529:1,IPv6,—,✘,✘,341
+amsterdam01,Amsterdam Internet Exchange,6777,2001:7f8:1::a500:6777:3,IPv6,Falcon Route Server 1,✘,✔,103
+amsterdam01,Amsterdam Internet Exchange,6777,80.249.211.0,IPv4,Falcon Route Server 2,✘,✔,104
+amsterdam01,Amatis,34442,80.249.211.110,IPv4,—,✘,✘,344
+amsterdam01,Amatis,34442,2001:7f8:1::a503:4442:1,IPv6,—,✘,✘,345
+amsterdam01,Amsterdam Internet Exchange,6777,2001:7f8:1::a500:6777:4,IPv6,Falcon Route Server 2,✘,✔,105
+amsterdam01,Arvato Systems,33873,80.249.208.178,IPv4,—,✘,✘,348
+amsterdam01,Arvato Systems,33873,2001:7f8:1::a503:3873:1,IPv6,—,✘,✘,349
+amsterdam01,Prolocation,41887,80.249.210.128,IPv4,—,✘,✘,350
+amsterdam01,Prolocation,41887,2001:7f8:1::a504:1887:1,IPv6,—,✘,✘,351
+amsterdam01,MTN South Africa,16637,80.249.208.117,IPv4,—,✘,✘,352
+amsterdam01,MTN South Africa,16637,2001:7f8:1::a501:6637:2,IPv6,—,✘,✘,353
+amsterdam01,Korton Internet BV,58138,80.249.209.189,IPv4,—,✘,✘,354
+amsterdam01,Korton Internet BV,58138,2001:7f8:1::a505:8138:1,IPv6,—,✘,✘,355
+amsterdam01,Edgecast,15133,2001:7f8:1::a501:5133:1,IPv6,—,✘,✘,378
+amsterdam01,Edgecast,15133,2001:7f8:1::a501:5133:2,IPv6,—,✘,✘,377
+amsterdam01,Edgecast,15133,80.249.209.162,IPv4,—,✘,✘,376
+amsterdam01,Hostopia,9115,80.249.209.127,IPv4,—,✘,✘,316
+amsterdam01,SIDN,1140,80.249.208.49,IPv4,—,✘,✘,362
+amsterdam01,SIDN,1140,2001:7f8:1::a500:1140:1,IPv6,—,✘,✘,363
+amsterdam01,SIDN,48283,80.249.210.151,IPv4,—,✘,✘,364
+amsterdam01,SIDN,48283,2001:7f8:1::a504:8283:1,IPv6,—,✘,✘,365
+amsterdam01,IDnet,12496,80.249.208.141,IPv4,—,✘,✘,366
+amsterdam01,IDnet,12496,2001:7f8:1::a501:2496:1,IPv6,—,✘,✘,367
+amsterdam01,Akamai,20940,80.249.211.233,IPv4,—,✘,✘,368
+amsterdam01,Akamai,20940,2001:7f8:1::a502:940:3,IPv6,—,✘,✘,369
+amsterdam01,stel,56550,80.249.211.113,IPv4,—,✘,✘,374
+amsterdam01,stel,56550,2001:7f8:1::a505:6550:1,IPv6,—,✘,✘,375
+amsterdam01,Netwerkvereniging Coloclue,8283,2001:7f8:1::a500:8283:1,IPv6,—,✔,✘,94
+amsterdam01,Meanie,31019,80.249.211.199,IPv4,—,✘,✘,113
+amsterdam01,Meanie,31019,2001:7f8:1::a503:1019:1,IPv6,—,✘,✘,114
+amsterdam01,Duodecad IT Services,34655,2001:7f8:1::a503:4655:1,IPv6,—,✘,✘,423
+amsterdam01,Amsterdam Internet Exchange,1200,80.249.208.1,IPv4,Administrative LAN,✘,✘,18
+amsterdam01,OJSC MegaFon,31133,80.249.208.125,IPv4,—,✘,✘,19
+amsterdam01,EdgeCast,15133,80.249.208.151,IPv4,—,✘,✘,20
+amsterdam01,SG.GS Singapore,24482,80.249.210.153,IPv4,—,✘,✘,119
+amsterdam01,SG.GS Singapore,24482,2001:7f8:1::a502:4482:1,IPv6,—,✘,✘,120
+amsterdam01,Akamai,20940,80.249.208.168,IPv4,—,✘,✘,21
+amsterdam01,Dial Telecom,29208,80.249.208.172,IPv4,—,✘,✘,22
+amsterdam01,AMPATH,20080,80.249.209.218,IPv4,—,✘,✘,123
+amsterdam01,AMPATH,20080,2001:7f8:1::a502:80:1,IPv6,—,✘,✘,124
+amsterdam01,ViewQuest,18106,80.249.212.146,IPv4,—,✘,✘,125
+amsterdam01,ViewQuest,18106,2001:7f8:1::a501:8106:1,IPv6,—,✘,✘,126
+amsterdam01,CAT Telecom,4651,2001:7f8:1::a500:4651:1,IPv6,—,✘,✘,128
+amsterdam01,CAT Telecom,4651,80.249.210.15,IPv4,—,✘,✘,127
+amsterdam01,M-net Telekommunikations GmbH,8767,80.249.209.94,IPv4,—,✘,✘,129
+amsterdam01,M-net Telekommunikations GmbH,8767,2001:7f8:1::a500:8767:1,IPv6,—,✘,✘,130
+amsterdam01,MEO Servicos de Comunicacoes e Multimedia,8657,2001:7f8:1::a500:8657:1,IPv6,—,✘,✘,422
+amsterdam01,MEO Servicos de Comunicacoes e Multimedia,8657,80.249.208.217,IPv4,—,✘,✘,421
+amsterdam01,Info.nl,20953,80.249.208.203,IPv4,—,✘,✘,137
+amsterdam01,Info.nl,20953,2001:7f8:1::a502:953:1,IPv6,—,✘,✘,138
+amsterdam01,Tango S.A.,48526,80.249.211.94,IPv4,—,✘,✘,139
+amsterdam01,Tango S.A.,48526,2001:7f8:1::a504:8526:1,IPv6,—,✘,✘,140
+amsterdam01,HostServer.de,29140,80.249.210.17,IPv4,—,✘,✘,141
+amsterdam01,HostServer.de,29140,2001:7f8:1::a502:9140:1,IPv6,—,✘,✘,142
+amsterdam01,FPT Telecom,18403,80.249.212.83,IPv4,—,✘,✘,143
+amsterdam01,FPT Telecom,18403,2001:7f8:1::a501:8403:2,IPv6,—,✘,✘,144
+amsterdam01,McKay,50763,80.249.210.99,IPv4,—,✘,✘,145
+amsterdam01,McKay,50763,2001:7f8:1::a505:763:1,IPv6,—,✘,✘,146
+amsterdam01,KeyCom,25178,80.249.211.204,IPv4,—,✘,✘,147
+amsterdam01,KeyCom,25178,2001:7f8:1::a502:5178:1,IPv6,—,✘,✘,148
+amsterdam01,Zaio Group,8218,80.249.209.53,IPv4,—,✘,✘,149
+amsterdam01,Zaio Group,8218,2001:7f8:1::a500:8218:2,IPv6,—,✘,✘,150
+amsterdam01,FiberBy,42541,80.249.212.84,IPv4,—,✘,✘,151
+amsterdam01,FiberBy,42541,2001:7f8:1::a504:2541:1,IPv6,—,✘,✘,152
+amsterdam01,InterBox Internet,16298,80.249.208.183,IPv4,—,✘,✘,23
+amsterdam01,FORTH,1241,2001:7f8:1::a500:1241:1,IPv6,—,✘,✘,398
+amsterdam01,FORTH,1241,80.249.210.140,IPv4,—,✘,✘,397
+amsterdam01,Kantonsschule Zug,34288,80.249.209.29,IPv4,—,✘,✘,154
+amsterdam01,Kantonsschule Zug,34288,2001:7f8:1::a503:4288:1,IPv6,—,✘,✘,155
+amsterdam01,GlobalNet,31500,80.249.209.157,IPv4,—,✘,✘,156
+amsterdam01,GlobalNet,31500,2001:7f8:1::a503:1500:1,IPv6,—,✘,✘,157
+amsterdam01,Open Peering Initiative,20562,80.249.208.189,IPv4,—,✘,✘,24
+amsterdam01,Plex,21478,80.249.208.216,IPv4,—,✘,✘,25
+amsterdam01,Packet Clearing House,42,80.249.208.250,IPv4,—,✘,✘,26
+amsterdam01,Bandwidth Technologies,25369,80.249.212.219,IPv4,—,✘,✘,164
+amsterdam01,Bandwidth Technologies,25369,2001:7f8:1::a502:5369:1,IPv6,—,✘,✘,165
+amsterdam01,Facebook,32934,2001:7f8:1::a503:2934:1,IPv6,pr01.ams2,✘,✘,166
+amsterdam01,Facebook,32934,2001:7f8:1::a503:2934:3,IPv6,pr02.ams2,✘,✘,167
+amsterdam01,Facebook,32934,80.249.209.115,IPv4,pr01.ams2,✘,✘,168
+amsterdam01,Facebook,32934,80.249.212.174,IPv4,pr02.ams2,✘,✘,169
+amsterdam01,Facebook,32934,2001:7f8:1::a503:2934:2,IPv6,pr01.ams3,✘,✘,170
+amsterdam01,Facebook,32934,2001:7f8:1::a503:2934:4,IPv6,pr02.ams3,✘,✘,171
+amsterdam01,Facebook,32934,80.249.209.164,IPv4,pr01.ams3,✘,✘,172
+amsterdam01,Facebook,32934,80.249.212.175,IPv4,pr02.ams3,✘,✘,173
+amsterdam01,Amsterdam Internet Exchange,6777,80.249.208.255,IPv4,Route Server 1,✘,✔,27
+amsterdam01,E4A,34695,80.249.208.74,IPv4,—,✘,✘,28
+amsterdam01,Amsterdam Internet Exchange,6777,80.249.209.0,IPv4,Route Server 2,✘,✔,29
+amsterdam01,Amsterdam Internet Exchange,1200,80.249.209.1,IPv4,Administrative LAN,✘,✘,30
+amsterdam01,CustodianDC,50300,80.249.211.14,IPv4,—,✘,✘,179
+amsterdam01,CustodianDC,50300,2001:7f8:1::a505:300:1,IPv6,—,✘,✘,180
+amsterdam01,Jaguar Network,30781,2001:7f8:1::a503:781:1,IPv6,—,✘,✘,392
+amsterdam01,Biznet,17451,80.249.210.131,IPv4,—,✘,✘,185
+amsterdam01,Biznet,17451,2001:7f8:1::a501:7451:1,IPv6,—,✘,✘,186
+amsterdam01,Network Platforms,37497,80.249.213.88,IPv4,—,✘,✘,187
+amsterdam01,Network Platforms,37497,2001:7f8:1::a503:7497:1,IPv6,—,✘,✘,188
+amsterdam01,Yahoo! Europe Ltd,10310,80.249.209.110,IPv4,—,✘,✘,31
+amsterdam01,Jaguar Network,30781,80.249.209.239,IPv4,—,✘,✘,391
+amsterdam01,Geant,21320,2001:7f8:1::a502:1320:1,IPv6,—,✘,✘,390
+amsterdam01,Hurricane Electric,6939,80.249.209.150,IPv4,—,✘,✘,32
+amsterdam01,Yahoo! Europe Ltd,10310,80.249.209.163,IPv4,—,✘,✘,33
+amsterdam01,OVH,16276,80.249.209.231,IPv4,—,✘,✘,202
+amsterdam01,OVH,16276,2001:7f8:1::a501:6276:1,IPv6,—,✘,✘,203
+amsterdam01,OVH,16276,80.249.209.245,IPv4,—,✘,✘,204
+amsterdam01,OVH,16276,2001:7f8:1::a501:6276:2,IPv6,—,✘,✘,205
+amsterdam01,Geant,21320,80.249.210.137,IPv4,—,✘,✘,389
+amsterdam01,MTS OJSC,8359,80.249.209.188,IPv4,—,✘,✘,34
+amsterdam01,Open Peering Initiative,20562,80.249.209.197,IPv4,—,✘,✘,35
+amsterdam01,Nexellent,31424,2001:7f8:1::a503:1424:1,IPv6,—,✘,✘,388
+amsterdam01,Microsoft,8075,80.249.209.20,IPv4,—,✘,✘,36
+amsterdam01,Akamai,20940,80.249.209.208,IPv4,—,✘,✘,37
+amsterdam01,Microsoft,8075,80.249.209.21,IPv4,—,✘,✘,38
+amsterdam01,Retn Ltd.,9002,80.249.209.216,IPv4,—,✘,✘,39
+amsterdam01,"TU Darmstadt, Hochschulrechenzentrum",8365,80.249.209.217,IPv4,—,✘,✘,40
+amsterdam01,Nexellent,31424,80.249.208.118,IPv4,—,✘,✘,387
+amsterdam01,NTE.no,34087,80.249.213.73,IPv4,—,✘,✘,218
+amsterdam01,NTE.no,34087,2001:7f8:1::a503:4087:1,IPv6,—,✘,✘,219
+amsterdam01,Opteamax,48200,2001:7f8:1::a504:8200:1,IPv6,—,✘,✘,386
+amsterdam01,Opteamax,48200,80.249.211.172,IPv4,—,✘,✘,385
+amsterdam01,Open Carrier,41692,80.249.209.221,IPv4,—,✘,✘,41
+amsterdam01,VeriSign,7342,80.249.209.232,IPv4,—,✘,✘,42
+amsterdam01,Packet Clearing House,3856,80.249.209.250,IPv4,—,✘,✘,43
+amsterdam01,MTS OJSC,8359,80.249.209.44,IPv4,—,✘,✘,44
+amsterdam01,Phonera Networks AB,16150,80.249.209.52,IPv4,—,✘,✘,45
+amsterdam01,Mainsoft S.p.A.,51185,80.249.210.163,IPv4,—,✘,✘,46
+amsterdam01,Seeweb s.r.l.,12637,80.249.210.172,IPv4,—,✘,✘,47
+amsterdam01,TransTeleCom,20485,80.249.210.177,IPv4,—,✘,✘,48
+amsterdam01,Seacom ltd,37100,80.249.210.223,IPv4,—,✘,✘,49
+amsterdam01,Hutchison Global Communications Limited,9304,80.249.210.31,IPv4,—,✘,✘,50
+amsterdam01,Mail.ru LLC,47764,80.249.210.47,IPv4,—,✘,✘,51
+amsterdam01,Computerline,41913,80.249.211.177,IPv4,—,✘,✘,53
+clemson01,Clemson University,12148,130.127.3.136,IPv4,—,✔,✘,190
+clemson01,University of Washington,47065,100.127.0.11,IPv4,AL2S Peering with uw01,✘,✘,358
+clemson01,University of Utah,47065,100.127.0.18,IPv4,AL2S Peering with utah01,✘,✘,359
+clemson02,Clemson University,5719,129.49.7.81,IPv4,—,✔,✘,158
+cornell01,Cornell University,26,192.35.82.77,IPv4,Upstream BGP Router,✔,✘,13
+gatech01,Georgia Institute of Technology,2637,143.215.254.25,IPv4,Upstream BGP Router,✔,✘,15
+grnet01,GRNet,5408,62.217.96.202,IPv4,GRNet upstream router,✔,✘,178
+isi01,Los Nettos Regional Network,226,207.151.17.57,IPv4,Upstream BGP Router,✔,✘,14
+neu01,Northeastern University,156,10.2.29.113,IPv4,—,✔,✘,182
+phoenix01,Cloudflare,13335,2001:504:3b::53,IPv6,—,✘,✘,199
+phoenix01,Packet Clearing House,3856,206.41.105.69,IPv4,—,✘,✘,194
+phoenix01,Packet Clearing House,3856,2001:504:3b::69,IPv6,—,✘,✘,195
+phoenix01,Packet Clearing House,42,206.41.105.68,IPv4,—,✘,✘,196
+phoenix01,Packet Clearing House,42,2001:504:3b::68,IPv6,—,✘,✘,197
+phoenix01,Salesforce Inc.,14340,206.41.105.62,IPv4,—,✘,✘,314
+phoenix01,Phoenix Internet Exchange,53698,206.41.105.9,IPv4,IXP Transit,✔,✘,10
+phoenix01,Phoenix Internet Exchange,5118,2001:504:3b::5,IPv6,Route Server 1,✘,✔,11
+phoenix01,Pavlov Media,23473,2001:504:3b::49,IPv6,—,✘,✘,208
+phoenix01,Syringa Networks,15305,2001:504:3b::16,IPv6,—,✘,✘,245
+phoenix01,Syringa Networks,15305,206.41.105.16,IPv4,—,✘,✘,244
+phoenix01,Hurricane Electric,6939,206.41.105.14,IPv4,—,✘,✘,161
+phoenix01,Hurricane Electric,6939,2001:504:3b::14,IPv6,—,✘,✘,162
+phoenix01,Phoenix Internet Exchange,5118,2001:504:3b::6,IPv6,Route Server 2,✘,✔,12
+phoenix01,Phoenix Internet Exchange,5118,206.41.105.5,IPv4,Route Server 1,✘,✔,8
+phoenix01,Salesforce Inc.,14340,2001:504:3b::62,IPv6,—,✘,✘,315
+phoenix01,Phoenix Internet Exchange,5118,206.41.105.6,IPv4,Route Server 2,✘,✔,9
+phoenix01,Pavlov Media,23473,206.41.105.49,IPv4,—,✘,✘,207
+phoenix01,"Oath, Inc",10310,2001:504:3b::56,IPv6,Oath/Yahoo,✘,✘,414
+phoenix01,"Oath, Inc",10310,206.41.105.56,IPv4,—,✘,✘,413
+phoenix01,"Oath, Inc",10310,2001:504:3b::36,IPv6,—,✘,✘,412
+phoenix01,"Oath, Inc",10310,206.41.105.36,IPv4,—,✘,✘,411
+phoenix01,Cloudflare,13335,206.41.105.53,IPv4,—,✘,✘,198
+sbu01,Stony Brook University,5719,129.49.7.81,IPv4,Upstream router,✔,✘,183
+seattle01,ESnet,293,2001:504:16::125,IPv6,—,✘,✘,371
+seattle01,Seattle Internet Exchange,33108,206.81.80.3,IPv4,Route Server 3,✘,✔,2
+seattle01,Seattle Internet Exchange,33108,2001:504:16::2,IPv6,Route Server 2,✘,✔,5
+seattle01,Seattle Internet Exchange,33108,2001:504:16::3,IPv6,Route Server 3,✘,✔,6
+seattle01,psg.com / RGNet,3130,206.81.80.23,IPv4,—,✔,✘,101
+seattle01,Altopia,6456,206.81.80.10,IPv4,—,✘,✘,106
+seattle01,Altopia,6456,2001:504:16::1938,IPv6,—,✘,✘,107
+seattle01,Altopia,6456,206.81.81.41,IPv4,—,✘,✘,108
+seattle01,Altopia,6456,2001:504:16::297:0:1938,IPv6,—,✘,✘,109
+seattle01,LocalTel Communications / Northwest Internet,13370,206.81.80.173,IPv4,—,✘,✘,110
+seattle01,LocalTel Communications / Northwest Internet,13370,2001:504:16::343a,IPv6,—,✘,✘,111
+seattle01,psg.com / RGNet,3130,2001:504:16::c3a,IPv6,—,✔,✘,112
+seattle01,Packet Clearing House,3856,2001:504:16::f10,IPv6,—,✘,✘,118
+seattle01,Packet Clearing House,3856,206.81.80.81,IPv4,—,✘,✘,117
+seattle01,Packet Clearing House,42,2001:504:16::2a,IPv6,—,✘,✘,116
+seattle01,Packet Clearing House,42,206.81.80.80,IPv4,—,✘,✘,115
+seattle01,SG.GS Singapore,24482,206.81.81.61,IPv4,—,✘,✘,121
+seattle01,SG.GS Singapore,24482,2001:504:16::5fa2,IPv6,—,✘,✘,122
+seattle01,Fusion Network/LiveAir Networks,19754,206.81.81.93,IPv4,—,✘,✘,153
+seattle01,Hurricane Electric,6939,206.81.80.40,IPv4,—,✘,✘,159
+seattle01,Hurricane Electric,6939,2001:504:16::1b1b,IPv6,—,✘,✘,160
+seattle01,Digital Fortress,3361,206.81.80.159,IPv4,—,✘,✘,163
+seattle01,Facebook,32934,2001:504:16::80a6,IPv6,pr01.sea1,✘,✘,174
+seattle01,Facebook,32934,2001:504:16::211:0:80a6,IPv6,pr02.sea1,✘,✘,175
+seattle01,Facebook,32934,206.81.80.181,IPv4,pr01.sea1,✘,✘,176
+seattle01,Facebook,32934,206.81.80.211,IPv4,pr02.sea1,✘,✘,177
+seattle01,AEBC Internet Corp,25668,206.81.80.103,IPv4,—,✘,✘,189
+seattle01,OVH,16276,206.81.80.214,IPv4,—,✘,✘,200
+seattle01,OVH,16276,2001:504:16::3f94,IPv6,—,✘,✘,201
+seattle01,AirStream,11796,206.81.81.117,IPv4,—,✘,✘,209
+seattle01,AirStream,11796,2001:504:16::2e14,IPv6,—,✘,✘,210
+seattle01,MNVoip,32621,206.81.81.119,IPv4,—,✘,✘,212
+seattle01,MNVoip,32621,2001:504:16::7f6d,IPv6,—,✘,✘,213
+seattle01,Blizzard,57976,206.81.81.122,IPv4,—,✘,✘,214
+seattle01,Blizzard,57976,2001:504:16::e278,IPv6,—,✘,✘,215
+seattle01,Wobscale,64241,206.81.81.87,IPv4,—,✘,✘,285
+seattle01,Twitch,46489,206.81.81.54,IPv4,—,✘,✘,222
+seattle01,Twitch,46489,206.81.81.55,IPv4,—,✘,✘,223
+seattle01,Twitch,46489,2001:504:16::b599,IPv6,—,✘,✘,224
+seattle01,Twitch,46489,2001:504:16::311:0:b599,IPv6,—,✘,✘,225
+seattle01,Dropbox,19679,206.81.81.112,IPv4,—,✘,✘,226
+seattle01,Dropbox,19679,2001:504:16::4cdf,IPv6,—,✘,✘,227
+seattle01,Unwired Ltd.,32354,206.81.81.53,IPv4,—,✘,✘,228
+seattle01,Unwired Ltd.,32354,2001:504:16::7e62,IPv6,—,✘,✘,229
+seattle01,Noelcomm,26935,206.81.80.125,IPv4,—,✘,✘,230
+seattle01,Noelcomm,26935,206.81.81.156,IPv4,—,✘,✘,231
+seattle01,Noelcomm,26935,2001:504:16::6937,IPv6,—,✘,✘,232
+seattle01,Noelcomm,26935,2001:504:16::412:0:6937,IPv6,—,✘,✘,233
+seattle01,Compudyne,47096,206.81.81.127,IPv4,—,✘,✘,234
+seattle01,Compudyne,47096,2001:504:16::b7f8,IPv6,—,✘,✘,235
+seattle01,Paul Bunyan Communications,14371,206.81.81.139,IPv4,—,✘,✘,236
+seattle01,Paul Bunyan Communications,14371,2001:504:16::3823,IPv6,—,✘,✘,237
+seattle01,NetActuate,36236,206.81.81.64,IPv4,—,✘,✘,238
+seattle01,NetActuate,36236,2001:504:16::8d8c,IPv6,—,✘,✘,239
+seattle01,Tierpoint,11274,206.81.80.59,IPv4,—,✘,✘,240
+seattle01,Tierpoint,11274,2001:504:16::2c0a,IPv6,—,✘,✘,241
+seattle01,Tierpoint,30340,206.81.80.20,IPv4,—,✘,✘,242
+seattle01,Tierpoint,30340,2001:504:16::7684,IPv6,—,✘,✘,243
+seattle01,Cloudflare,13335,206.81.81.10,IPv4,—,✘,✘,254
+seattle01,Cloudflare,13335,2001:504:16::3417,IPv6,—,✘,✘,255
+seattle01,TDSNET,4181,206.81.80.178,IPv4,—,✘,✘,256
+seattle01,TDSNET,4181,2001:504:16::1055,IPv6,—,✘,✘,257
+seattle01,iFIBER,25764,206.81.80.204,IPv4,—,✘,✘,258
+seattle01,Silverstar Telecom,32869,206.81.80.171,IPv4,—,✘,✘,259
+seattle01,Silverstar Telecom,32869,2001:504:16::8065,IPv6,—,✘,✘,260
+seattle01,Riot Games,6507,206.81.81.42,IPv4,—,✘,✘,261
+seattle01,WA Broadband,19116,206.81.81.44,IPv4,—,✘,✘,262
+seattle01,WA Broadband,19116,2001:504:16::4aac,IPv6,—,✘,✘,263
+seattle01,Wiktel,33362,206.81.81.141,IPv4,—,✘,✘,268
+seattle01,Wiktel,33362,2001:504:16::8252,IPv6,—,✘,✘,269
+seattle01,iovation,53708,206.81.80.192,IPv4,—,✘,✘,270
+seattle01,iovation,53708,2001:504:16::d1cc,IPv6,—,✘,✘,271
+seattle01,DALnet,31800,206.81.80.101,IPv4,—,✘,✘,274
+seattle01,Netflix,2906,206.81.80.222,IPv4,—,✘,✘,277
+seattle01,Netflix,2906,2001:504:16::b5a,IPv6,—,✘,✘,278
+seattle01,Netflix,2906,206.81.80.223,IPv4,—,✘,✘,279
+seattle01,Netflix,2906,2001:504:16::223:0:b5a,IPv6,—,✘,✘,280
+seattle01,Wobscale,64241,2001:504:16::faf1,IPv6,—,✘,✘,286
+seattle01,AARNet,7575,206.81.80.112,IPv4,—,✘,✘,287
+seattle01,AARNet,7575,2001:504:16::1d97,IPv6,—,✘,✘,288
+seattle01,Stargate,19171,206.81.81.15,IPv4,—,✘,✘,311
+seattle01,Stargate,19171,2001:504:16::4ae3,IPv6,—,✘,✘,312
+seattle01,Inland Networks,26088,206.81.80.165,IPv4,—,✘,✘,313
+seattle01,Automattic,2635,206.81.81.70,IPv4,—,✘,✘,320
+seattle01,Automattic,2635,2001:504:16::a4b,IPv6,—,✘,✘,321
+seattle01,Zscaler,22616,206.81.81.179,IPv4,—,✘,✘,322
+seattle01,Zscaler,22616,206.81.81.180,IPv4,—,✘,✘,323
+seattle01,Fiber Internet Center,26803,206.81.80.172,IPv4,—,✘,✘,324
+seattle01,Rainier Connect,20394,206.81.80.186,IPv4,—,✘,✘,325
+seattle01,Rainier Connect,20394,2001:504:16::4faa,IPv6,—,✘,✘,326
+seattle01,Pogozone,36696,206.81.80.121,IPv4,—,✘,✘,331
+seattle01,SkyFiber Internet,32212,206.81.81.173,IPv4,—,✘,✘,334
+seattle01,SkyFiber Internet,32212,2001:504:16::7dd4,IPv6,—,✘,✘,335
+seattle01,Symantec,27471,206.81.81.169,IPv4,—,✘,✘,336
+seattle01,Symantec,27471,206.81.81.170,IPv4,—,✘,✘,337
+seattle01,Internap,29791,2001:504:16::745f,IPv6,—,✘,✘,304
+seattle01,Internap,29791,206.81.80.149,IPv4,—,✘,✘,303
+seattle01,Incapsula,19551,206.81.81.178,IPv4,—,✘,✘,342
+seattle01,Incapsula,19551,2001:504:16::4c5f,IPv6,—,✘,✘,343
+seattle01,RiseUp,16652,206.81.81.74,IPv4,—,✘,✘,346
+seattle01,RiseUp,16652,2001:504:16::410c,IPv6,—,✘,✘,347
+seattle01,Syringa Networks,15305,206.81.80.239,IPv4,—,✘,✘,360
+seattle01,Syringa Networks,15305,2001:504:16::3bc9,IPv6,—,✘,✘,361
+seattle01,ESnet,293,206.81.81.102,IPv4,—,✘,✘,370
+seattle01,Seattle Internet Exchange,33108,206.81.80.2,IPv4,Route Server 2,✘,✔,1
+seattle01,CTS Telecom,19653,206.81.81.151,IPv4,—,✘,✘,372
+seattle01,CTS Telecom,19653,2001:504:16::4cc5,IPv6,—,✘,✘,373
+seattle01,Beta IDC,131477,206.81.81.189,IPv4,—,✘,✘,395
+seattle01,Beta IDC,131477,2001:504:16::2:195,IPv6,—,✘,✘,396
+seattle01,Github,36459,206.81.81.89,IPv4,—,✘,✘,399
+seattle01,Github,36459,2001:504:16::8e6b,IPv6,—,✘,✘,400
+seattle01,Github,36459,206.81.81.90,IPv4,—,✘,✘,401
+seattle01,Github,36459,2001:504:16::346:0:8e6b,IPv6,—,✘,✘,402
+seattle01,NGEN,54721,206.81.81.146,IPv4,—,✘,✘,403
+seattle01,NGEN,54721,2001:504:16::d5c1,IPv6,—,✘,✘,404
+seattle01,NGEN,54721,206.81.83.146,IPv4,—,✘,✘,405
+seattle01,NGEN,54721,2001:504:16:1::d5c1,IPv6,—,✘,✘,406
+seattle01,Valve,32590,206.81.81.197,IPv4,—,✘,✘,407
+seattle01,Valve,32590,2001:504:16::453:0:7f4e,IPv6,—,✘,✘,408
+seattle01,ViewQuest,18106,206.81.81.60,IPv4,—,✘,✘,409
+seattle01,ViewQuest,18106,2001:504:16::46ba,IPv6,—,✘,✘,410
+seattle01,Xplornet Communications Inc,22995,206.81.81.11,IPv4,—,✘,✘,415
+seattle01,Xplornet Communications Inc,22995,2001:504:16::59d3,IPv6,—,✘,✘,416
+seattle01,Valve,32590,206.81.80.246,IPv4,—,✘,✘,417
+seattle01,Valve,32590,2001:504:16::7f4e,IPv6,—,✘,✘,418
+seattle01,Spotify,8403,206.81.81.150,IPv4,—,✘,✘,419
+seattle01,Spotify,8403,2001:504:16::20d3,IPv6,—,✘,✘,420
+seattle01,Edgecast,15133,206.81.81.28,IPv4,—,✘,✘,379
+seattle01,Edgecast,15133,206.81.80.152,IPv4,—,✘,✘,380
+seattle01,Edgecast,15133,2001:504:16::3b1d,IPv6,—,✘,✘,381
+seattle01,Edgecast,15133,2001:504:16::284:0:3b1d,IPv6,—,✘,✘,382
+seattle01,Cogeco Peer1,13768,206.81.80.38,IPv4,—,✘,✘,383
+seattle01,Cogeco Peer1,13768,2001:504:16::35c8,IPv6,—,✘,✘,384
+seattle01,Akamai,20940,206.81.80.113,IPv4,—,✘,✘,393
+seattle01,Akamai,20940,2001:504:16::51cc,IPv6,—,✘,✘,394
+ufmg01,PTT-MG,26162,2001:12f8:0:3::254,IPv6,Route Server 2,✘,✔,136
+ufmg01,PTT-MG,20121,2001:12f8:0:3::252,IPv6,Looking Glass,✘,✘,134
+ufmg01,PTT-MG,26162,200.219.139.254,IPv4,Route Server 2,✘,✔,133
+ufmg01,PTT-MG,26162,200.219.139.253,IPv4,Route Server 1,✘,✔,132
+ufmg01,CEMIG Telecom,23106,2001:12f8:0:3::114,IPv6,—,✘,✘,221
+ufmg01,CEMIG Telecom,23106,200.219.139.114,IPv4,—,✘,✘,220
+ufmg01,Rede Minas Telecom,262805,200.219.139.145,IPv4,—,✘,✘,211
+ufmg01,DuFibraNet,263478,200.219.139.159,IPv4,—,✘,✘,206
+ufmg01,PTT-MG,20121,200.219.139.252,IPv4,Looking Glass,✘,✘,131
+ufmg01,Universidade Federal de Minas Gerais,10417,200.131.2.65,IPv4,Upstream BGP Router,✔,✘,16
+ufmg01,PTT-MG,26162,2001:12f8:0:3::253,IPv6,Route Server 1,✘,✔,135
+usc01,University of Washington,47065,100.127.0.11,IPv4,AL2S Peering with uw01,✔,✘,216
+utah01,Clemson University,47065,100.127.0.17,IPv4,AL2S Peering w/ clemson01,✘,✘,357
+utah01,University of Utah,210,140.197.247.226,IPv4,—,✔,✘,191
+utah01,University of Washington,47065,100.127.0.11,IPv4,AL2S Peering with uw01,✘,✘,193
+uw01,University of Utah,47065,100.127.0.18,IPv4,AL2S Peering with utah01,✘,✘,192
+uw01,University of Southern California,47065,100.127.0.13,IPv4,AL2S Peering with usc01,✘,✘,217
+uw01,University of Washington,101,209.124.179.37,IPv4,UW at PNW GigaPoP,✔,✘,181
+uw01,Clemson University,47065,100.127.0.17,IPv4,AL2S Peering w/ clemson01,✘,✘,356
+wisc01,University of Wisconsin - Madison,3128,143.235.40.225,IPv4,UWisc Upstream Router,✔,✘,184

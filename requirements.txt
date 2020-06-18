@@ -1,0 +1,5 @@
+exabgp==3.4.23
+py2-ipaddress
+requests
+flask
+pybgpstream
